@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="181354_unfa_fail-jingle-layer-1 %28online-audio-converter.com%29.wav" />
+    <None Remove="521949_kastenfrosch_success-jingle %28online-audio-converter.com%29.wav" />
+  </ItemGroup>
+
+</Project>
